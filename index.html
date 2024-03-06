@@ -43,7 +43,10 @@
             justify-content: center;
             z-index: 1000;
             background-image: url('img/wp.png'); 
-            background-size: cover;
+            background-size: contain; /* Ikonun boyutunu kontrol etmek için contain kullanın */
+            background-repeat: no-repeat; /* Ikonun tekrarlanmasını engelleyin */
+            width: 60px; /* Ikonun genişliğini ayarlayın */
+            height: 60px; /* Ikonun yüksekliğini ayarlayın */
         }
 </style>
     <!-- Template Stylesheet -->
