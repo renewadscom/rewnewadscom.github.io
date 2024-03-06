@@ -376,11 +376,6 @@
     border-right: 1px solid rgba(255, 255, 255, .3);
 }
 
-.btn-success img {
-            display: block;
-            margin: 0 auto 5px; /* Adjust the margin as needed */
-        }
-
 .footer .footer-menu a:last-child {
     margin-right: 0;
     padding-right: 0;
