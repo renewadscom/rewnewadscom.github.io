@@ -104,16 +104,18 @@
         
     }
 
-    .btn-success {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-        }
+     .btn-success {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
 
-        .btn-success img {
-            margin-bottom: 5px; /* Adjust the margin as needed */
-        }
+    .btn-success img {
+      width: 20px;
+      height: 20px;
+      margin-bottom: 5px;
+    }
 
     .navbar-light .navbar-nav {
         border-top: 1px solid #EEEEEE;
