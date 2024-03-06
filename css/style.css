@@ -104,9 +104,15 @@
         
     }
 
-     .btn-success img {
-            display: block;
-            margin: 0 auto 5px; /* Adjust the margin as needed */
+    .btn-success {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .btn-success img {
+            margin-bottom: 5px; /* Adjust the margin as needed */
         }
 
     .navbar-light .navbar-nav {
