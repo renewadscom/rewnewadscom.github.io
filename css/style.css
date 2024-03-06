@@ -146,10 +146,12 @@
 }
 
 .btn-inner-icon {
-    position: absolute;
-    left: 10px;
-    top: 50%;
-    transform: translateY(-50%);
+    margin-right: 5px;
+    float: left;
+}
+
+.btn {
+    text-align: left;
 }
 
 /*** Header ***/
