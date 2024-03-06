@@ -101,7 +101,13 @@
     .navbar-light .navbar-nav .nav-link  {
         margin-right: 0;
         padding: 10px 0;
+        
     }
+
+     .btn-success img {
+            display: block;
+            margin: 0 auto 5px; /* Adjust the margin as needed */
+        }
 
     .navbar-light .navbar-nav {
         border-top: 1px solid #EEEEEE;
